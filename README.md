@@ -1,4 +1,4 @@
-# GameHub
+
 
 GameHub is a modern game discovery web app built with React, TypeScript, Vite, and Chakra UI.  
 It lets users explore games, view detailed game pages, manage a personal library, and enjoy a responsive gamer-style interface.
